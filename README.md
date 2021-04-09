@@ -8,7 +8,7 @@ Language: Python - Jupyter Lab(Anaconda)
 ## Libraries
 import pandas as pd\
 import matplotlib.pyplot as plt\
-import seaborn as sns\
+import seaborn as sns
 
 ## Steps
 Data exploration and preparation\
@@ -17,4 +17,4 @@ Data Cleansing\
 Descriptive Statistic\
 Data Visualization\
 Report\
-Conclusion\
+Conclusion
